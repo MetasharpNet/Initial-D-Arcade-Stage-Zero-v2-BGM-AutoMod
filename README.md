@@ -228,6 +228,37 @@ MIT
 
 ---
 
+# Suggested Tracklist for the game
+
+* 01 fastway - go beat crazy.flac
+* 02 ace - power of sound.flac
+* 03 tommy k. - break the night.flac
+* 04 max coveri - running in the 90's.flac
+* 05 dave rodgers - space boy.flac
+* 06 dr. love feat. d. essex - max power.flac
+* 07 edo boys - no one sleep in tokyo.flac
+* 08 m.o.v.e - dogfight.flac
+* 09 niko - night of fire.flac
+* 10 mega nrg man - back on the rocks.flac
+* 11 ken blast - the top.flac
+* 12 dave rodgers - deja vu.flac
+* 13 mako & sayuki - wings of fire.flac
+* 14 mega nrg man - burning desire.flac
+* 15 leslie parrish - save me.flac
+* 16 jager - i won't fall apart.flac
+* 17 go 2 - looka bomba.flac
+* 18 vicky vale - dancing.flac
+* 19 sound holic feat nana takahashi - preserved vampire.flac
+* 20 fastway - revolution.flac
+* 21 manuel - gas gas gas.flac
+* 22 dave mcloud - gimme the night.flac
+* 23 digital planet - fly away.flac
+* 24 sound holic vs eurobeat union feat nana takahashi - no life queen [dj command remix].flac
+* 25 michiko neya & yumi kakazu - impact blue.flac
+* 26 mickey b. - take my soul.flac
+* 
+---
+
 ## Statistics
 
 GitHub Downloads stats:
